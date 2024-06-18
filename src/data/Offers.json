@@ -1,0 +1,14 @@
+[
+  {
+    "id": 642,
+    "total_buy": 6,
+    "offer": "Buy 6 cans of Coca-Cola, and get one free",
+    "offer_product_id": 642
+  },
+  {
+    "id": 532,
+    "total_buy": 3,
+    "offer": "Buy 3 croissants and get a free coffee",
+    "offer_product_id": 641
+  }
+]
